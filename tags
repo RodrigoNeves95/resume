@@ -14,7 +14,7 @@ Education	rodrigo_neves.tex	/^\\section{Education}$/;"	s
 Experience	rodrigo_neves.tex	/^\\section{Experience}$/;"	s
 Preview	README.md	/^### Preview$/;"	S
 Projects	rodrigo_neves.tex	/^\\section{Projects}$/;"	s
-Technoligies \\& Technical Skills	rodrigo_neves.tex	/^\\section{Technoligies \\& Technical Skills}$/;"	s
+Technologies \\& Technical Skills	rodrigo_neves.tex	/^\\section{Technologies \\& Technical Skills}$/;"	s
 \\resumeItem	rodrigo_neves.tex	/^\\newcommand{\\resumeItem}[2]{$/;"	C
 \\resumeItemListEnd	rodrigo_neves.tex	/^\\newcommand{\\resumeItemListEnd}{\\end{itemize}\\vspace{-5pt}}$/;"	C
 \\resumeItemListStart	rodrigo_neves.tex	/^\\newcommand{\\resumeItemListStart}{\\begin{itemize}}$/;"	C
