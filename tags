@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combine/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rodrigo/Desktop/cv/resume/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/9bb75d02/
+Build using Docker	README.md	/^### Build using Docker$/;"	S
+Education	rodrigo_neves.tex	/^\\section{Education}$/;"	s
+Experience	rodrigo_neves.tex	/^\\section{Experience}$/;"	s
+Preview	README.md	/^### Preview$/;"	S
+Projects	rodrigo_neves.tex	/^\\section{Projects}$/;"	s
+Technoligies \\& Technical Skills	rodrigo_neves.tex	/^\\section{Technoligies \\& Technical Skills}$/;"	s
+\\resumeItem	rodrigo_neves.tex	/^\\newcommand{\\resumeItem}[2]{$/;"	C
+\\resumeItemListEnd	rodrigo_neves.tex	/^\\newcommand{\\resumeItemListEnd}{\\end{itemize}\\vspace{-5pt}}$/;"	C
+\\resumeItemListStart	rodrigo_neves.tex	/^\\newcommand{\\resumeItemListStart}{\\begin{itemize}}$/;"	C
+\\resumeSubHeadingListEnd	rodrigo_neves.tex	/^\\newcommand{\\resumeSubHeadingListEnd}{\\end{itemize}}$/;"	C
+\\resumeSubHeadingListStart	rodrigo_neves.tex	/^\\newcommand{\\resumeSubHeadingListStart}{\\begin{itemize}[leftmargin=*]}$/;"	C
+\\resumeSubItem	rodrigo_neves.tex	/^\\newcommand{\\resumeSubItem}[2]{\\resumeItem{#1}{#2}\\vspace{-4pt}}$/;"	C
+\\resumeSubSubheading	rodrigo_neves.tex	/^\\newcommand{\\resumeSubSubheading}[2]{$/;"	C
+\\resumeSubheading	rodrigo_neves.tex	/^\\newcommand{\\resumeSubheading}[4]{$/;"	C
+build	Makefile	/^build:$/;"	t
+run	Makefile	/^run:$/;"	t
