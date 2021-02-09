@@ -4,24 +4,25 @@
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/rodrigo/Desktop/cv/resume/	//
+!_TAG_PROC_CWD	/home/rodrigo/Desktop/github/resume/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/9bb75d02/
 Build using Docker	README.md	/^### Build using Docker$/;"	S
-Education	rodrigo_neves.tex	/^\\section{Education}$/;"	s
-Experience	rodrigo_neves.tex	/^\\section{Experience}$/;"	s
+Education	resume/V1/resume.tex	/^\\section{Education}$/;"	s
+Experience	resume/V1/resume.tex	/^\\section{Experience}$/;"	s
 Preview	README.md	/^### Preview$/;"	S
-Projects	rodrigo_neves.tex	/^\\section{Projects}$/;"	s
-Technologies \\& Technical Skills	rodrigo_neves.tex	/^\\section{Technologies \\& Technical Skills}$/;"	s
-\\resumeItem	rodrigo_neves.tex	/^\\newcommand{\\resumeItem}[2]{$/;"	C
-\\resumeItemListEnd	rodrigo_neves.tex	/^\\newcommand{\\resumeItemListEnd}{\\end{itemize}\\vspace{-5pt}}$/;"	C
-\\resumeItemListStart	rodrigo_neves.tex	/^\\newcommand{\\resumeItemListStart}{\\begin{itemize}}$/;"	C
-\\resumeSubHeadingListEnd	rodrigo_neves.tex	/^\\newcommand{\\resumeSubHeadingListEnd}{\\end{itemize}}$/;"	C
-\\resumeSubHeadingListStart	rodrigo_neves.tex	/^\\newcommand{\\resumeSubHeadingListStart}{\\begin{itemize}[leftmargin=*]}$/;"	C
-\\resumeSubItem	rodrigo_neves.tex	/^\\newcommand{\\resumeSubItem}[2]{\\resumeItem{#1}{#2}\\vspace{-4pt}}$/;"	C
-\\resumeSubSubheading	rodrigo_neves.tex	/^\\newcommand{\\resumeSubSubheading}[2]{$/;"	C
-\\resumeSubheading	rodrigo_neves.tex	/^\\newcommand{\\resumeSubheading}[4]{$/;"	C
+Projects	resume/V1/resume.tex	/^\\section{Projects}$/;"	s
+Technologies \\& Technical Skills	resume/V1/resume.tex	/^\\section{Technologies \\& Technical Skills}$/;"	s
+\\resumeItem	resume/V1/resume.tex	/^\\newcommand{\\resumeItem}[2]{$/;"	C
+\\resumeItemListEnd	resume/V1/resume.tex	/^\\newcommand{\\resumeItemListEnd}{\\end{itemize}\\vspace{-5pt}}$/;"	C
+\\resumeItemListStart	resume/V1/resume.tex	/^\\newcommand{\\resumeItemListStart}{\\begin{itemize}}$/;"	C
+\\resumeSubHeadingListEnd	resume/V1/resume.tex	/^\\newcommand{\\resumeSubHeadingListEnd}{\\end{itemize}}$/;"	C
+\\resumeSubHeadingListStart	resume/V1/resume.tex	/^\\newcommand{\\resumeSubHeadingListStart}{\\begin{itemize}[leftmargin=*]}$/;"	C
+\\resumeSubItem	resume/V1/resume.tex	/^\\newcommand{\\resumeSubItem}[2]{\\resumeItem{#1}{#2}\\vspace{-4pt}}$/;"	C
+\\resumeSubSubheading	resume/V1/resume.tex	/^\\newcommand{\\resumeSubSubheading}[2]{$/;"	C
+\\resumeSubheading	resume/V1/resume.tex	/^\\newcommand{\\resumeSubheading}[4]{$/;"	C
 build	Makefile	/^build:$/;"	t
-run	Makefile	/^run:$/;"	t
+resume_v1	Makefile	/^resume_v1:$/;"	t
+resume_v2	Makefile	/^resume_v2:$/;"	t
